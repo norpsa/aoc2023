@@ -1,0 +1,13 @@
+{
+    "name": "AOC23",
+    "type": "module",
+    "version": "1.0.0",
+    "description": "AOC23",
+    "main": "day1.js",
+    "scripts": {},
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "fs": "0.0.1-security"
+    }
+  }
